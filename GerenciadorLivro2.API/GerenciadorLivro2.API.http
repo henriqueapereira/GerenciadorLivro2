@@ -1,0 +1,6 @@
+@GerenciadorLivro2.API_HostAddress = http://localhost:5276
+
+GET {{GerenciadorLivro2.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
